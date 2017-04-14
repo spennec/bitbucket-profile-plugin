@@ -12,7 +12,10 @@ Full documentation is always available at:
 
 https://developer.atlassian.com/display/DOCS/Introduction+to+the+Atlassian+Plugin+SDK
 
+---------------------------------------------
+
+Lien vers la page qui affiche le plugin
 http://localhost:7990/bitbucket/plugins/servlet/account/users/admin
 
-2è réponse:
+2è réponse sur la gestion des déps Spring:
 http://stackoverflow.com/questions/36008446/atlassian-plugin-xml-contains-a-definition-of-component-import-this-is-not-allo
